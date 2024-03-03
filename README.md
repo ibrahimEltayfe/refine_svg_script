@@ -33,6 +33,6 @@ This script is designed to refine and optimize SVG files for exporting to Flutte
 
 ## Usage
 
-Now, you are ready to refine and optimize SVG files using the provided script.
+Now, create a directory and put all of your icons in it, put the script in this directory, then open the terminal in this directory, drag the script in the terminal then press enter.
 
 We welcome contributions for additional platform setups like Windows ..etc. Happy refining! 🚀

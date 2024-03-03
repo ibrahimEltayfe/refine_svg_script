@@ -2,7 +2,7 @@
 
 This script is designed to refine and optimize SVG files for exporting to Flutter custom icons, ensuring no defective icons are generated.
 
-<img src="https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/bb26a4c8-d9eb-4d72-a2e7-79a5bfa04b0b" width="48%"> ➔ <img src="https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/a224377f-a8f3-4ca7-9d6f-62c7e6075090" width="48%">
+<img src="[https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/bb26a4c8-d9eb-4d72-a2e7-79a5bfa04b0b](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/5763b8de-912d-47ae-89b3-3781264f09e6)" width="48%"> ➔ <img src="[https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/a224377f-a8f3-4ca7-9d6f-62c7e6075090](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/cdf28299-54ed-4f00-a9af-837e5c9a7807)" width="48%">
 
 ## Setup (macOS)
 

@@ -2,8 +2,7 @@
 
 This script is designed to refine and optimize SVG files for exporting to Flutter custom icons, ensuring no defective icons are generated.
 
-[![p1](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/a224377f-a8f3-4ca7-9d6f-62c7e6075090)](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/a224377f-a8f3-4ca7-9d6f-62c7e6075090) ➔ [![p2](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/bb26a4c8-d9eb-4d72-a2e7-79a5bfa04b0b)](https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/bb26a4c8-d9eb-4d72-a2e7-79a5bfa04b0b)
-
+<img src="https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/bb26a4c8-d9eb-4d72-a2e7-79a5bfa04b0b" width="50%"> ➔ <img src="https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/a224377f-a8f3-4ca7-9d6f-62c7e6075090" width="50%">
 
 ## Setup (macOS)
 
@@ -39,6 +38,6 @@ This script is designed to refine and optimize SVG files for exporting to Flutte
 Now, create a directory and put all of your icons in it, put the script in this directory, then open the terminal in this directory, drag the script in the terminal then press enter.
 
 https://github.com/ibrahimEltayfe/refine_svg_script/assets/40795940/16c8f9fd-25b4-4420-bec6-a5253f39fe8a
-
+Now, you can upload the refined icons to the FlutterIcon website and they will appear as expected.
 
 We welcome contributions for additional platform setups like Windows ..etc. Happy refining! 🚀
